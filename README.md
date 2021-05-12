@@ -25,4 +25,4 @@ The frontend also utilizes React Router, allowing navigation with broswer button
 
 ## Backend
 
-To see our backend repo, click [here](https://github.com/ZacharyDagnall/cellar-seller-backend).
+To see our backend repo, click [here](https://github.com/wbugenis/cellar-seller-backend).
